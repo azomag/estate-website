@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "image": "images/house1.jpg",
+    "title": "Coastal Serenity Villa",
+    "price": "750,000",
+    "trait": "3,050/mo",
+    "info": "Guardamar del Segura, Spain",
+    "description": "3 Bedrooms 2 Bathrooms",
+    "owner":"https://images.unsplash.com/photo-1568585105565-e372998a195d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name":"mohamed",
+    "number":"0689758393"
+  },
+
+  {
+    "id": 2,
+    "image": "images/house2.jpg",
+    "title": "Urban Elegance Residence",
+    "price": "850,000",
+    "trait": "4,050/mo",
+    "info": "madrid , Spain",
+    "description": "4 Bedrooms 3 Bathrooms",
+    "owner":"https://images.unsplash.com/photo-1556157382-97eda2d62296?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name":"aymen",
+    "number":"0689758393"
+  },
+
+  {
+    "id": 3,
+    "image": "images/house3.jpg",
+    "title": "Modern Oasis Retreat",
+    "price": "500,000",
+    "trait": "2,050/mo",
+    "info": "Marblehead Neck, Marblehead, MA, USA",
+    "description": "2 Bedrooms 1 Bathrooms",
+    "owner":"https://images.unsplash.com/photo-1558203728-00f45181dd84?q=80&w=1474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name":"youness",
+    "number":"0689758393"
+  }
+]

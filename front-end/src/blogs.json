@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding the Real Estate Market: Tips for First-Time Buyers",
+    "date": "2024-08-20",  
+      "name": "admin",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Navigating the real estate market can be daunting, especially for first-time buyers. This article breaks down essential tips and strategies to help you make informed decisions when purchasing your first home."
+  },
+  {
+    "id": 2,
+    "title": "How to Stage Your Home for a Quick Sale",
+    "date": "2024-08-22",  
+      "name": "admin",
+    "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Staging your home effectively can make a significant difference in how quickly it sells. Learn the key steps to make your property more appealing to potential buyers and ensure a speedy sale."
+  },
+  {
+    "id": 3,
+    "title": "The Future of Sustainable Housing: What You Need to Know",
+    "date": "2024-08-24",  
+      "name": "admin",
+    "image": "https://images.unsplash.com/photo-1503174971373-b1f69850bded?q=80&w=1513&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Sustainable housing is becoming increasingly important in today’s market. Explore the latest trends and innovations in eco-friendly home design and construction, and how they can benefit both you and the environment."
+  },
+  {
+    "id": 4,
+    "title": "Top 10 Neighborhoods for Real Estate Investment in 2024",
+    "date": "2024-08-26",  
+      "name": "admin",
+    "image": "https://images.unsplash.com/photo-1494203484021-3c454daf695d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Looking to invest in real estate? Discover the top 10 neighborhoods that offer the best opportunities for growth and return on investment in 2024."
+  },
+  {
+    "id": 5,
+    "title": "Renovation Ideas to Increase Your Home’s Value",
+    "date": "2024-08-28",  
+      "name": "admin",
+    "image": "https://images.unsplash.com/photo-1482867899247-e295efdd8c1a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Considering a home renovation? This article covers some of the most effective upgrades and improvements that can significantly boost your home’s value and attract potential buyers."
+  },
+  {
+    "id": 6,
+    "title": "How to Finance Your First Home: Mortgage Tips and Tricks",
+    "date": "2024-08-30",  
+      "name": "admin",
+    "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Securing the right mortgage is crucial when buying your first home. This guide offers practical tips and tricks to help you navigate the financing process and choose the best mortgage options."
+  },
+  {
+    "id": 7,
+    "title": "The Impact of Interest Rates on Real Estate Prices",
+    "date": "2024-09-01",  
+      "name": "admin",
+    "image": "https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Interest rates play a significant role in the real estate market. Learn how fluctuations in interest rates can affect property prices and what it means for buyers and investors."
+  },
+  {
+    "id": 8,
+    "title": "A Beginner’s Guide to Real Estate Investment",
+    "date": "2024-09-03",  
+      "name": "admin",
+    "image": "https://images.unsplash.com/photo-1541123437800-1bb1317badc2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Interested in real estate investment but don’t know where to start? This beginner’s guide covers the basics, including property types, investment strategies, and potential risks."
+  },
+  {
+    "id": 9,
+    "title": "How to Choose the Right Real Estate Agent",
+    "date": "2024-09-05",  
+      "name": "admin",
+    "image": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Choosing the right real estate agent can make or break your buying or selling experience. This article provides tips on what to look for when selecting an agent to ensure a smooth transaction."
+  },
+  {
+    "id": 10,
+    "title": "The Benefits of Smart Home Technology in Modern Houses",
+    "date": "2024-09-07",  
+      "name": "admin",
+    "image": "https://images.unsplash.com/photo-1565183928294-7063f23ce0f8?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Smart home technology is revolutionizing the way we live. Discover the benefits of integrating smart devices into your home and how they can increase convenience, security, and energy efficiency."
+  }
+]
